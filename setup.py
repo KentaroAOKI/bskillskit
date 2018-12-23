@@ -13,7 +13,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='bskillskit',
-    version='0.8.1',
+    version='0.8.2',
     description='It is a helper tool with reference to box skills. It is not official.',
     long_description=long_description,
     long_description_content_type='text/markdown',
